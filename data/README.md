@@ -1,4 +1,4 @@
-📂 Dataset
+**📂 Dataset**
 
 The dataset used in this project is a curated combination of multiple publicly available handwritten text datasets.
 
@@ -13,7 +13,8 @@ To ensure the repository remains lightweight and easy to explore, only a small s
 Access permissions may be required
 Please request access if needed
 Ensure proper usage in accordance with dataset licenses
-🗂️ Dataset Structure
+
+**🗂️ Dataset Structure**
 
 After downloading and extracting the dataset, organize it as follows:
 ```
@@ -32,14 +33,15 @@ data/
 ```
 💡 Each image corresponds to its respective segmentation mask.
 
-⚙️ How to Use
+**⚙️ How to Use**
+
 Download the dataset from the Google Drive link
 Extract the files
 Place them inside the data/ directory
 Ensure the structure matches the format above
 Run your training or preprocessing pipeline
 
-📚 Dataset Sources
+**📚 Dataset Sources**
 
 The curated dataset is constructed from the following research works:
 
@@ -58,14 +60,15 @@ The curated dataset is constructed from the following research works:
    Kaggle, 2024 🔗 https://www.kaggle.com/datasets/mehtav/devanagari-personality-dataset
 
 
-⚖️ Disclaimer
+**⚖️ Disclaimer**
 
 This project uses data from multiple sources strictly for research and academic purposes.
 
 All rights belong to the original authors
 Proper credit is given to all sources
 Users are responsible for complying with individual dataset licenses
-⭐ Citation (Optional)
+
+**⭐ Citation (Optional)**
 
 If you use this curated dataset, consider citing the original works listed above.
 
