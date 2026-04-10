@@ -43,7 +43,6 @@ Run your training or preprocessing pipeline
 
 The curated dataset is constructed from the following research works:
 
-<details> <summary><strong>📖 Click to expand references</strong></summary>
 R. Jayadevan, S. R. Kolhe, P. M. Patil, and U. Pal
 Database development and recognition of handwritten Devanagari legal amount words
 Proc. 11th International Conference on Document Analysis and Recognition (ICDAR), 2011.
@@ -57,7 +56,8 @@ V. Mehta et al.
 Devanagari word dataset for personality prediction
 Kaggle, 2024
 🔗 https://www.kaggle.com/datasets/mehtav/devanagari-personality-dataset
-</details>
+
+
 ⚖️ Disclaimer
 
 This project uses data from multiple sources strictly for research and academic purposes.
