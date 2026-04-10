@@ -9,7 +9,7 @@ This repository contains the official implementation of the paper **"Semi-Superv
 
 ## 📋 Paper Information
 - **Title**: Semi-Supervised Shirorekha Segmentation in Handwritten Devanagari Text using CycleGAN with Dual Attention
-- **Authors**: [Your Name(s)]
+- **Authors**: [Mohammad Idrees Bhat, Mohammed Javed, sharada B, and Md Sk Obaidullahi]
 - **Conference/Journal**: [Conference Name]
 - **Year**: 2026
 
