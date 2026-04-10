@@ -43,22 +43,19 @@ Run your training or preprocessing pipeline
 
 The curated dataset is constructed from the following research works:
 
-R. Jayadevan, S. R. Kolhe, P. M. Patil, and U. Pal
-Database development and recognition of handwritten Devanagari legal amount words
-Proc. 11th International Conference on Document Analysis and Recognition (ICDAR), 2011.
-R. K. Roy, H. Mukherjee, and U. Pal
+1. R. Jayadevan, S. R. Kolhe, P. M. Patil, and U. Pal
+   Database development and recognition of handwritten Devanagari legal amount words
+   Proc. 11th International Conference on Document Analysis and Recognition (ICDAR), 2011.
+   R. K. Roy, H. Mukherjee, and U. Pal
 
-CNN-based recognition of handwritten multilingual city names
-Multimedia Tools and Applications, 2022.
-P. K. Samanta and S. Biswas
+2. CNN-based recognition of handwritten multilingual city names
+   Multimedia Tools and Applications, 2022.P. K. Samanta and S. Biswas
 
-AIO-HB: A handwritten text image dataset of Hindi and Bengali Indian scripts for handwritten text recognition
-Proc. 27th International Conference on Pattern Recognition (ICPR), 2024.
-V. Mehta et al.
+3. AIO-HB: A handwritten text image dataset of Hindi and Bengali Indian scripts for handwritten text recognition
+   Proc. 27th International Conference on Pattern Recognition (ICPR), 2024.V. Mehta et al.
 
-Devanagari word dataset for personality prediction
-Kaggle, 2024
-🔗 https://www.kaggle.com/datasets/mehtav/devanagari-personality-dataset
+4. Devanagari word dataset for personality prediction
+   Kaggle, 2024 🔗 https://www.kaggle.com/datasets/mehtav/devanagari-personality-dataset
 
 
 ⚖️ Disclaimer
